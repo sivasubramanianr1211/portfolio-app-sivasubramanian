@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-app-sivasubramanian/static/css/main.02612152.css",
+    "main.js": "/portfolio-app-sivasubramanian/static/js/main.fdf472b5.js",
+    "static/js/592.9525cf69.chunk.js": "/portfolio-app-sivasubramanian/static/js/592.9525cf69.chunk.js",
+    "static/media/profile-img.jpg": "/portfolio-app-sivasubramanian/static/media/profile-img.a8b4b5a10cab6e69533a.jpg",
+    "static/media/menu-icon.svg": "/portfolio-app-sivasubramanian/static/media/menu-icon.ed134105d5f8f5b7420bbaf3d3da0b72.svg",
+    "index.html": "/portfolio-app-sivasubramanian/index.html",
+    "main.02612152.css.map": "/portfolio-app-sivasubramanian/static/css/main.02612152.css.map",
+    "main.fdf472b5.js.map": "/portfolio-app-sivasubramanian/static/js/main.fdf472b5.js.map",
+    "592.9525cf69.chunk.js.map": "/portfolio-app-sivasubramanian/static/js/592.9525cf69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02612152.css",
+    "static/js/main.fdf472b5.js"
+  ]
+}
