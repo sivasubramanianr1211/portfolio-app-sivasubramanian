@@ -13,6 +13,7 @@ function App() {
   const { width: windowWidth } = useWindowSize();
   console.log(windowWidth);
   const isMobile: boolean = windowWidth !== undefined && windowWidth < 768;
+  document.title = 'Portfolio - Sivasubramanian Ramiah';
   return (
     <div className="App mt-[10px]">
       <div className="p-[20px] fixed top-0 left-0 w-full bg-[#1b0e64] text-white p-4">
