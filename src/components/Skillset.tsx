@@ -18,7 +18,7 @@ const Skillset: React.FC = () => {
     "Node Js",
     "MySQL",
     "MongoDB",
-    "AWS codecommit",
+    "AWS amplify",
     "Github / GitLab"
   ];
   return (
