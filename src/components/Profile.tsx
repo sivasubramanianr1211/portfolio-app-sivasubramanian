@@ -2,9 +2,9 @@
 
 import React from "react";
 import ProfileImg from "../assets/profile-img.jpg";
-import SpotAward from "../assets/spot-award.png";
+import SpotAward from "../assets/spot-award.jpg";
 import useWindowSize from "../utils/useWindowSize";
-import DreamTeamAward from "../assets/dream-team-award.png";
+import DreamTeamAward from "../assets/dream-team-award.jpg";
 
 const Profile: React.FC = () => {
   const { width: windowWidth } = useWindowSize();
