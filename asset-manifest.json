@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio-app-sivasubramanian/static/css/main.783ae26f.css",
-    "main.js": "/portfolio-app-sivasubramanian/static/js/main.f8c2efc6.js",
+    "main.js": "/portfolio-app-sivasubramanian/static/js/main.295c1f01.js",
     "static/js/592.9525cf69.chunk.js": "/portfolio-app-sivasubramanian/static/js/592.9525cf69.chunk.js",
-    "static/media/dream-team-award.png": "/portfolio-app-sivasubramanian/static/media/dream-team-award.ff4ed95c56a38367dfb8.png",
-    "static/media/spot-award.png": "/portfolio-app-sivasubramanian/static/media/spot-award.a43ae4872427fc3c9872.png",
+    "static/media/dream-team-award.jpg": "/portfolio-app-sivasubramanian/static/media/dream-team-award.643b278fd79cefdc8f2d.jpg",
+    "static/media/spot-award.jpg": "/portfolio-app-sivasubramanian/static/media/spot-award.4fed6d7e7ca9d0552821.jpg",
     "static/media/profile-img.jpg": "/portfolio-app-sivasubramanian/static/media/profile-img.a8b4b5a10cab6e69533a.jpg",
     "static/media/menu-icon.svg": "/portfolio-app-sivasubramanian/static/media/menu-icon.ed134105d5f8f5b7420bbaf3d3da0b72.svg",
     "index.html": "/portfolio-app-sivasubramanian/index.html",
     "main.783ae26f.css.map": "/portfolio-app-sivasubramanian/static/css/main.783ae26f.css.map",
-    "main.f8c2efc6.js.map": "/portfolio-app-sivasubramanian/static/js/main.f8c2efc6.js.map",
+    "main.295c1f01.js.map": "/portfolio-app-sivasubramanian/static/js/main.295c1f01.js.map",
     "592.9525cf69.chunk.js.map": "/portfolio-app-sivasubramanian/static/js/592.9525cf69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.783ae26f.css",
-    "static/js/main.f8c2efc6.js"
+    "static/js/main.295c1f01.js"
   ]
 }
