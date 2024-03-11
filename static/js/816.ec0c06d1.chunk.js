@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_portfolio_app=self.webpackChunkmy_portfolio_app||[]).push([[816],{816:(a,s,e)=>{e.r(s),e.d(s,{default:()=>t});e(60);var c=e(496);const t=()=>(0,c.jsxs)("section",{id:"contact",className:"p-2",children:[(0,c.jsx)("h2",{className:"text-[26px]",children:"Contact"}),(0,c.jsxs)("p",{className:"text-[20px] mt-[2px]",children:[(0,c.jsx)("p",{children:"Email: sivaramanathan619@gmail.com"}),(0,c.jsx)("p",{children:"Phone: +91 9176280590"})]})]})}}]);
+//# sourceMappingURL=816.ec0c06d1.chunk.js.map
