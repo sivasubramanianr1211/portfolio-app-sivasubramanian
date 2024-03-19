@@ -20,6 +20,7 @@ const Profile: React.FC = () => {
             height={"180px"}
             width={"180px"}
             src={ProfileImg}
+            alt=""
           />
         </div>
       </div>
@@ -41,6 +42,7 @@ const Profile: React.FC = () => {
           onClick={() => {
             window.open(SpotAward, "__blank");
           }}
+          alt=""
         />
         <img
           className={
@@ -54,6 +56,7 @@ const Profile: React.FC = () => {
           onClick={() => {
             window.open(DreamTeamAward, "__blank");
           }}
+          alt=""
         />
       </div>
     </div>
